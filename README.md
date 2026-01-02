@@ -1,4 +1,4 @@
-interesting_programs
+interesting-programs
 ====================
 
 Many interesting programs
